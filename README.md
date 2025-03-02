@@ -13,10 +13,13 @@ This project is a **Valentine's Day-themed envelope animation** built using **HT
 ## 📂 Project Structure
 ```
 📁 valentines-animation
-│── 📄 index.html       # Main HTML file
-│── 🎨 styles.css       # Styling and animations
-│── 🎵 audio.mp3        # Background music file
-│── 🎨 assets/          # Image assets (optional)
+│── 📄 index.html      # Main HTML file
+│── 🎨 styles.css      # Styling and animations
+│── 👾 script.js       # Animations functions
+│── images
+   │── 🖼 image.jpg          # Album cover file
+│── audio
+   │── 🎵 audio.mp3    # Background music file
 ```
 
 ## 📌 Installation
@@ -45,6 +48,7 @@ Developed by **jinvkyen** – Happy Valentine's Day! 💘
 ---
 
 # User Interface Design 
-developed with Figma
+designed with Figma
 
-![Valentine's Card](https://github.com/user-attachments/assets/7436ce83-ce1d-4dc6-a330-5f403a78e71f)
+![Valentine's Card](https://github.com/user-attachments/assets/0432cddc-bd0d-4c3a-be89-5ba44efa9186)
+
